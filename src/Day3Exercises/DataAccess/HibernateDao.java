@@ -7,7 +7,6 @@ import Day3Exercises.Entities.Instructor;
 public class HibernateDao implements CategoryDao,CourseDao,InstructorDao{
     @Override
     public void add(Courses courses) {
-
     }
 
     @Override
